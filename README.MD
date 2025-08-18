@@ -29,9 +29,10 @@ Ideal para iniciantes e ótimo para praticar manipulação do DOM.
 Editor de código usado durante o desenvolvimento.  
 Com extensões úteis como Live Server, Prettier e suporte ao Git.
 
-### 🐙 Git & GitHub
-O controle de versão foi feito com Git, e o projeto está hospedado no GitHub.  
-Além disso, o site foi publicado com **GitHub Pages**:  
+### 🐙 
+E o projeto está hospedado na plataforma vercel.  
+
+ **vercel**
 🔗 [aksa-carvalhogithub-io.vercel.app](https://portfolio-dio-eosin.vercel.app)
 
 
