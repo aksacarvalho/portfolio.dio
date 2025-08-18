@@ -32,7 +32,7 @@ Com extensões úteis como Live Server, Prettier e suporte ao Git.
 ### 🐙 Git & GitHub
 O controle de versão foi feito com Git, e o projeto está hospedado no GitHub.  
 Além disso, o site foi publicado com **GitHub Pages**:  
-🔗 [aksa-carvalhogithub-io.vercel.app]()
+🔗 [aksa-carvalhogithub-io.vercel.app](https://portfolio-dio-eosin.vercel.app)
 
 
 
